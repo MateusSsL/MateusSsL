@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MateusSsL
 - 👀 I’m interested in Project's
-- 🌱 I’m currently learning Python/C#
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python/Javascript/Java/C#
+- 💞️ I’m looking to collaborate on Startup Project's
 - 📫 How to reach me ...
 
 <!---
